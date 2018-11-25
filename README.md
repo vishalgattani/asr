@@ -6,9 +6,9 @@ Create a new directory 'asr' which consists of all the folders - Models,moodles,
 
 Please change the directory paths (just the initial parts with the path shown above) in the following
 files present anywhere in the directory:
-1.test_wavs
-2.train_wavs
-3.model_path
+1. test_wavs
+2. train_wavs
+3. model_path
 
 Use the directory TIMIT for test and train data.
 Used SOX converter to convert the given .NIST to .WAV format.
