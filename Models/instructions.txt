@@ -1,3 +1,4 @@
+Create a new directory 'asr' which consists of all the folders - Models,moodles,results,TIMIT.
 The directory path is /home/USER/asr.
 Please change the directory paths in the following files present anywhere in the directory:
 1.test_wavs
