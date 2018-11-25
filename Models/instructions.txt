@@ -1,0 +1,5 @@
+The directory path is /home/USER/asr.
+Please change the directory paths in the following files present anywhere in the directory:
+1.test_wavs
+2.train_wavs
+3.model_path
