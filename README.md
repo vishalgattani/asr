@@ -1,6 +1,6 @@
 # asr
 
-Create a new directory 'asr' which consists of all the folders - Models,moodles,results,TIMIT.
+Clone the above repository and the directory 'asr' is created by default.
 
 ### The directory path is "/home/USERNAME/asr"
 
