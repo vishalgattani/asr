@@ -2,7 +2,7 @@
 
 Create a new directory 'asr' which consists of all the folders - Models,moodles,results,TIMIT.
 
-### The directory path is "/home/<USERNAME>/asr"
+### The directory path is "/home/USERNAME/asr"
 
 Please change the directory paths (just the initial parts with the path shown above) in the following
 files present anywhere in the directory:
